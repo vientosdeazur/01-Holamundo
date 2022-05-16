@@ -1,2 +1,2 @@
-console.log("Hola Zalogon")
-console.log("comiteando")
+console.log("Hola Zalogon");
+console.log("comiteando");
